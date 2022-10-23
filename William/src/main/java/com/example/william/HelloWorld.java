@@ -6,8 +6,8 @@ public class HelloWorld {
         System.out.println("Below are additional test branches from teammates.");
         William myWilliam = new William();
         myWilliam.message();
-        Akosua myAkousa = new Akosua();
-        myAkousa.message();
+        Akosua myAkosua = new Akosua();
+        myAkosua.message();
 
     }
 }
